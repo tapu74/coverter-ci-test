@@ -4,7 +4,8 @@
   "description": "ci and cd",
   "main": "index.js",
   "scripts": {
-    "test": "npx mocha --reporter spec"
+    "test": "npx mocha --reporter spec",
+    "start": "node index.js"
   },
   "author": "Tapu",
   "license": "ISC",
