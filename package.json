@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "ci and cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha --reporter spec"
+  },
+  "author": "Tapu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.2",
+    "request": "^2.88.2"
+  }
+}
